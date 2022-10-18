@@ -5,7 +5,7 @@
 - 💻 I am a passionate and detail-oriented React-Native & React developer looking for an entry-level position in a company to leverage my coding skills, troubleshoot issues, and help complete projects on time.
 
 
-# 💻 Tech Stack:
+#### 🛠  Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) 
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat-square&logo=redux&logoColor=white) 
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) 
@@ -34,10 +34,19 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white) 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white) 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=kbakaeva&theme=nord&hide_border=true&include_all_commits=true&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kbakaeva&theme=nord&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+<p align='center'>
+</br>
+<a href="https://github.com/kbakaeva">
+  <img height=170 src="https://github-readme-stats.vercel.app/api?username=kbakaeva&theme=buefy&show_icons=true&count_private=true"/>
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/kbakaeva">
+  <img height=170 src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kbakaeva&theme=buefy&show_icons=true&count_private=true"/>
+</a>
+</p>
 
 
-## 🌐 Socials:
+
+#### 🤝🏻  Contact Information:
 [LinkedIn ](https://www.linkedin.com/in/kbakaeva/) | [Telegram](https://t.me/kanyshai_bakaeva)
