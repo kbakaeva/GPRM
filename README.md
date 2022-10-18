@@ -29,9 +29,10 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=kbakaeva&theme=nord&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=kbakaeva&theme=nord&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=kbakaeva&theme=nord&hide_border=true&include_all_commits=true&count_private=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kbakaeva&theme=nord&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-codewars-stats.herokuapp.com/api/?username=kbakaeva&card&colormode=dark_mode)
+
 
 ## 🌐 Socials:
 [LinkedIn ](https://www.linkedin.com/in/kbakaeva/) | [Telegram](https://t.me/kanyshai_bakaeva)
