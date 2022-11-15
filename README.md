@@ -15,4 +15,4 @@ Git
 Check my resume
 Resume in [English](https://docs.google.com/document/d/1YHhAuW-IjPpW22F4TQBOFQXC_3h8CLhlveQB5--he-Q/edit)
 
-Contact me:[LinkedIn](https://www.linkedin.com/in/kbakaeva/) | [Telegram](https://t.me/kanyshai_bakaeva)
+Contact me: [LinkedIn](https://www.linkedin.com/in/kbakaeva/) | [Telegram](https://t.me/kanyshai_bakaeva)
