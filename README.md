@@ -6,7 +6,7 @@
 
 
 #### 🛠  About me:
-Work experience 1.5 year
+Work experience 2 years
 Technologies:
 - React, Redux, Typescript
 - Algorithms and data structures
