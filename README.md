@@ -13,6 +13,6 @@ Technologies:
 - SOLID principles
 Git
 Check my resume
-Resume in [English]([https://docs.google.com/document/d/1YHhAuW-IjPpW22F4TQBOFQXC_3h8CLhlveQB5--he-Q/edit](https://docs.google.com/document/d/1_CWZbH_lXduGFHoSdR-5XsaLb0w5N5UZzNXerFSa5lk/edit?usp=sharing))
+Resume in [English](https://docs.google.com/document/d/1YHhAuW-IjPpW22F4TQBOFQXC_3h8CLhlveQB5--he-Q/edit](https://docs.google.com/document/d/1_CWZbH_lXduGFHoSdR-5XsaLb0w5N5UZzNXerFSa5lk/edit?usp=sharing)
 
 Contact me: [LinkedIn](https://www.linkedin.com/in/kbakaeva/) | [Telegram](https://t.me/kanyshai_bakaeva)
